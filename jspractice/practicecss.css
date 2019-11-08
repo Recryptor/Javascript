@@ -1,0 +1,9 @@
+.highlighted {
+    color: black;
+    background: yellow;
+}
+
+.normal {
+    color: green;
+    background: grey;
+}

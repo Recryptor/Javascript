@@ -1,0 +1,14 @@
+body {
+    font: 1em/150% 'utopia-std', sans-serif;
+}
+
+
+
+.font1 {
+    font-family: "trajan-sans-pro", sans-serif;
+    color: black;
+}
+
+.stormlight {
+    border: 10px solid black;
+}
